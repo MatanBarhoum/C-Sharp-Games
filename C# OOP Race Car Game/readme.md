@@ -11,6 +11,7 @@ Touching the borders of the forms or the astroieds will end the game and take yo
 Login and Register Fully working authentication. You can't register if there is another person with that username, and will not register you if password or username is blank. <Br>
 upon login screen, it will check username and password. if username or password is incorrect a error message will popup.</li>
 <li>High Score + Coins System</li>
+  <li>Objects random generated on X and Y every time.</li>
 </ul>
 
 <h2>Demo</h2>
