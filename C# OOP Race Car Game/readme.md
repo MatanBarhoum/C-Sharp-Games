@@ -14,6 +14,8 @@ upon login screen, it will check username and password. if username or password 
 </ul>
 
 <h2>Demo</h2>
+<h3>SQL</h3>
+<img src="SQL.JPG">
 <h3>Login Demo</h3>
 <img src="LoginDemo.gif">
 <h3>Login + Register Demo</h3>
