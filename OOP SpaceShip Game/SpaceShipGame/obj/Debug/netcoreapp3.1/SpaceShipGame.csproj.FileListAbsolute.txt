@@ -1,0 +1,17 @@
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.csproj.AssemblyReference.cache
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.Form1.resources
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.Properties.Resources.resources
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.csproj.GenerateResource.cache
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.AssemblyInfoInputs.cache
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.AssemblyInfo.cs
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.csproj.CoreCompileInputs.cache
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.exe
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.deps.json
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.runtimeconfig.json
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.runtimeconfig.dev.json
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.dll
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\bin\Debug\netcoreapp3.1\SpaceShipGame.pdb
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.dll
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.pdb
+F:\Visual Studio\SpaceShipGame\SpaceShipGame\obj\Debug\netcoreapp3.1\SpaceShipGame.genruntimeconfig.cache
